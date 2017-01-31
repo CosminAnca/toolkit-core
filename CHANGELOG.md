@@ -1,3 +1,11 @@
+
+# Toolkit Core v1.4.1
+
+## 1. Bug Fixes
+- [package] Moved `mocha` dependency to `devDependencies`
+
+===
+
 # Toolkit Core v1.4.0
 
 ## 1. Dependencies
