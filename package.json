@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/sky-uk/toolkit-core#readme",
   "dependencies": {
-    "mocha": "^2.4.5",
     "node-sass": "^3.4.2",
     "pre-commit": "^1.1.2",
     "sass-mq": "^3.2.6",
@@ -32,6 +31,7 @@
     "sky-css-lint": "1.0.0"
   },
   "devDependencies": {
+    "mocha": "^2.4.5",
     "eyeglass": "^1.1.2"
   }
 }
